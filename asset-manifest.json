@@ -1,34 +1,31 @@
 {
   "files": {
-    "main.css": "/covid/static/css/main.26db0c51.chunk.css",
-    "main.js": "/covid/static/js/main.d52f51f8.chunk.js",
-    "main.js.map": "/covid/static/js/main.d52f51f8.chunk.js.map",
+    "main.css": "/covid/static/css/main.220e9c98.chunk.css",
+    "main.js": "/covid/static/js/main.e80d98e3.chunk.js",
+    "main.js.map": "/covid/static/js/main.e80d98e3.chunk.js.map",
     "runtime-main.js": "/covid/static/js/runtime-main.ed7b7e5f.js",
     "runtime-main.js.map": "/covid/static/js/runtime-main.ed7b7e5f.js.map",
     "static/css/2.afd40c00.chunk.css": "/covid/static/css/2.afd40c00.chunk.css",
-    "static/js/2.dea7b556.chunk.js": "/covid/static/js/2.dea7b556.chunk.js",
-    "static/js/2.dea7b556.chunk.js.map": "/covid/static/js/2.dea7b556.chunk.js.map",
+    "static/js/2.44926d8d.chunk.js": "/covid/static/js/2.44926d8d.chunk.js",
+    "static/js/2.44926d8d.chunk.js.map": "/covid/static/js/2.44926d8d.chunk.js.map",
     "index.html": "/covid/index.html",
-    "precache-manifest.d02262b84d86448762bc59cd6c1e1b0e.js": "/covid/precache-manifest.d02262b84d86448762bc59cd6c1e1b0e.js",
+    "precache-manifest.7439e922c091874bd674f225e0bfc7e2.js": "/covid/precache-manifest.7439e922c091874bd674f225e0bfc7e2.js",
     "service-worker.js": "/covid/service-worker.js",
     "static/css/2.afd40c00.chunk.css.map": "/covid/static/css/2.afd40c00.chunk.css.map",
-    "static/css/main.26db0c51.chunk.css.map": "/covid/static/css/main.26db0c51.chunk.css.map",
-    "static/js/2.dea7b556.chunk.js.LICENSE.txt": "/covid/static/js/2.dea7b556.chunk.js.LICENSE.txt",
+    "static/css/main.220e9c98.chunk.css.map": "/covid/static/css/main.220e9c98.chunk.css.map",
+    "static/js/2.44926d8d.chunk.js.LICENSE.txt": "/covid/static/js/2.44926d8d.chunk.js.LICENSE.txt",
     "static/media/index.css": "/covid/static/media/OpenSans-Regular.3ed9575d.ttf",
-    "static/media/brazil.png": "/covid/static/media/brazil.f20b71d0.png",
+    "static/media/engprod.png": "/covid/static/media/engprod.7d94cd6d.png",
     "static/media/foto1.png": "/covid/static/media/foto1.c1c29448.png",
     "static/media/foto2.png": "/covid/static/media/foto2.6bda7ae6.png",
     "static/media/foto3.png": "/covid/static/media/foto3.d78a922d.png",
-    "static/media/logo.png": "/covid/static/media/logo.55c61669.png",
-    "static/media/logoufcg.png": "/covid/static/media/logoufcg.5ab3e592.png",
-    "static/media/paraiba.png": "/covid/static/media/paraiba.1e9918bb.png",
-    "static/media/world.png": "/covid/static/media/world.d039ecd7.png"
+    "static/media/logoufcg.png": "/covid/static/media/logoufcg.5ab3e592.png"
   },
   "entrypoints": [
     "static/js/runtime-main.ed7b7e5f.js",
     "static/css/2.afd40c00.chunk.css",
-    "static/js/2.dea7b556.chunk.js",
-    "static/css/main.26db0c51.chunk.css",
-    "static/js/main.d52f51f8.chunk.js"
+    "static/js/2.44926d8d.chunk.js",
+    "static/css/main.220e9c98.chunk.css",
+    "static/js/main.e80d98e3.chunk.js"
   ]
 }

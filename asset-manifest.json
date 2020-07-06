@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/lucasmatheus1.github.io/covid/static/css/main.5ef2ea37.chunk.css",
-    "main.js": "/lucasmatheus1.github.io/covid/static/js/main.2599aef7.chunk.js",
-    "main.js.map": "/lucasmatheus1.github.io/covid/static/js/main.2599aef7.chunk.js.map",
+    "main.js": "/lucasmatheus1.github.io/covid/static/js/main.89634ac3.chunk.js",
+    "main.js.map": "/lucasmatheus1.github.io/covid/static/js/main.89634ac3.chunk.js.map",
     "runtime-main.js": "/lucasmatheus1.github.io/covid/static/js/runtime-main.9b81825d.js",
     "runtime-main.js.map": "/lucasmatheus1.github.io/covid/static/js/runtime-main.9b81825d.js.map",
     "static/css/2.afd40c00.chunk.css": "/lucasmatheus1.github.io/covid/static/css/2.afd40c00.chunk.css",
-    "static/js/2.749413af.chunk.js": "/lucasmatheus1.github.io/covid/static/js/2.749413af.chunk.js",
-    "static/js/2.749413af.chunk.js.map": "/lucasmatheus1.github.io/covid/static/js/2.749413af.chunk.js.map",
+    "static/js/2.8587c31f.chunk.js": "/lucasmatheus1.github.io/covid/static/js/2.8587c31f.chunk.js",
+    "static/js/2.8587c31f.chunk.js.map": "/lucasmatheus1.github.io/covid/static/js/2.8587c31f.chunk.js.map",
     "index.html": "/lucasmatheus1.github.io/covid/index.html",
-    "precache-manifest.dbdeed792427aad63fcb20f325625d62.js": "/lucasmatheus1.github.io/covid/precache-manifest.dbdeed792427aad63fcb20f325625d62.js",
+    "precache-manifest.3adc17f7cd9ad75ee47367e7900bed42.js": "/lucasmatheus1.github.io/covid/precache-manifest.3adc17f7cd9ad75ee47367e7900bed42.js",
     "service-worker.js": "/lucasmatheus1.github.io/covid/service-worker.js",
     "static/css/2.afd40c00.chunk.css.map": "/lucasmatheus1.github.io/covid/static/css/2.afd40c00.chunk.css.map",
     "static/css/main.5ef2ea37.chunk.css.map": "/lucasmatheus1.github.io/covid/static/css/main.5ef2ea37.chunk.css.map",
-    "static/js/2.749413af.chunk.js.LICENSE.txt": "/lucasmatheus1.github.io/covid/static/js/2.749413af.chunk.js.LICENSE.txt",
+    "static/js/2.8587c31f.chunk.js.LICENSE.txt": "/lucasmatheus1.github.io/covid/static/js/2.8587c31f.chunk.js.LICENSE.txt",
     "static/media/index.css": "/lucasmatheus1.github.io/covid/static/media/OpenSans-Regular.3ed9575d.ttf",
     "static/media/engprod.png": "/lucasmatheus1.github.io/covid/static/media/engprod.7d94cd6d.png",
     "static/media/josenildo.jpeg": "/lucasmatheus1.github.io/covid/static/media/josenildo.b7d15b44.jpeg",
@@ -26,8 +26,8 @@
   "entrypoints": [
     "static/js/runtime-main.9b81825d.js",
     "static/css/2.afd40c00.chunk.css",
-    "static/js/2.749413af.chunk.js",
+    "static/js/2.8587c31f.chunk.js",
     "static/css/main.5ef2ea37.chunk.css",
-    "static/js/main.2599aef7.chunk.js"
+    "static/js/main.89634ac3.chunk.js"
   ]
 }

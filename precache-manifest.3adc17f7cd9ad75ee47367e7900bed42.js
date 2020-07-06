@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a7ad877b1568bf35e2e42f82a96b758f",
+    "revision": "94b2d46fbbbccfa585fb7ee13ac9dcdd",
     "url": "/lucasmatheus1.github.io/covid/index.html"
   },
   {
-    "revision": "d4a9b1899c7ddcaf40c6",
+    "revision": "b5e734ebccacf5719a19",
     "url": "/lucasmatheus1.github.io/covid/static/css/2.afd40c00.chunk.css"
   },
   {
-    "revision": "d7fe6a5794fef6d58de9",
+    "revision": "0ed236304942eb06e734",
     "url": "/lucasmatheus1.github.io/covid/static/css/main.5ef2ea37.chunk.css"
   },
   {
-    "revision": "d4a9b1899c7ddcaf40c6",
-    "url": "/lucasmatheus1.github.io/covid/static/js/2.749413af.chunk.js"
+    "revision": "b5e734ebccacf5719a19",
+    "url": "/lucasmatheus1.github.io/covid/static/js/2.8587c31f.chunk.js"
   },
   {
     "revision": "5e9b6f5c16b720e8a86875f97734673e",
-    "url": "/lucasmatheus1.github.io/covid/static/js/2.749413af.chunk.js.LICENSE.txt"
+    "url": "/lucasmatheus1.github.io/covid/static/js/2.8587c31f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d7fe6a5794fef6d58de9",
-    "url": "/lucasmatheus1.github.io/covid/static/js/main.2599aef7.chunk.js"
+    "revision": "0ed236304942eb06e734",
+    "url": "/lucasmatheus1.github.io/covid/static/js/main.89634ac3.chunk.js"
   },
   {
     "revision": "c51c2a899b3496175a5e",

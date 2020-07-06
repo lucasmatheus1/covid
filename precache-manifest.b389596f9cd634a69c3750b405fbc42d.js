@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "94b2d46fbbbccfa585fb7ee13ac9dcdd",
+    "revision": "949072d4c831213d3a1a74d4f7262515",
     "url": "/lucasmatheus1.github.io/covid/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lucasmatheus1.github.io/covid/static/css/2.afd40c00.chunk.css"
   },
   {
-    "revision": "0ed236304942eb06e734",
+    "revision": "7114125c42c084317d40",
     "url": "/lucasmatheus1.github.io/covid/static/css/main.5ef2ea37.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lucasmatheus1.github.io/covid/static/js/2.8587c31f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0ed236304942eb06e734",
-    "url": "/lucasmatheus1.github.io/covid/static/js/main.89634ac3.chunk.js"
+    "revision": "7114125c42c084317d40",
+    "url": "/lucasmatheus1.github.io/covid/static/js/main.35e037be.chunk.js"
   },
   {
     "revision": "c51c2a899b3496175a5e",
